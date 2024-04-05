@@ -1,4 +1,4 @@
-# Algorithmic Enhancements and Optimizations
+# Boyer Moore's Algorithmic Enhancements and Optimizations
 
 - **Sublinear Complexity Algorithm Development**: Developed an algorithm for exact pattern matching utilizing multiple optimizations, achieving sublinear complexity. This surpasses existing algorithms under similar conditions.
 
